@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PolicyKit-gnome\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-08 07:52+0000\n"
-"PO-Revision-Date: 2012-08-08 13:19+0100\n"
+"POT-Creation-Date: 2016-06-05 11:42+0200\n"
+"PO-Revision-Date: 2016-06-05 11:43+0200\n"
 "Last-Translator: Przemysław Buczkowski <przemub@yahoo.pl>\n"
 "Language-Team: Silesian <ubuntu-l10n-szl@lists.launchpad.net>\n"
 "Language: szl\n"
@@ -25,11 +25,11 @@ msgstr "Wybierz używŏcza..."
 msgid "%s (%s)"
 msgstr "%s (%s)"
 
-#: ../src/polkitgnomeauthenticationdialog.c:537
+#: ../src/polkitgnomeauthenticationdialog.c:538
 msgid "_Authenticate"
 msgstr "_Logŏwaniy"
 
-#: ../src/polkitgnomeauthenticationdialog.c:576
+#: ../src/polkitgnomeauthenticationdialog.c:577
 msgid ""
 "An application is attempting to perform an action that requires privileges. "
 "Authentication as one of the users below is required to perform this action."
@@ -37,7 +37,7 @@ msgstr ""
 "Softwar chce uprŏwniyń roota. Logŏwaniy na kōnto kerego z tych używaczy je "
 "dlŏ tygo potrzebne."
 
-#: ../src/polkitgnomeauthenticationdialog.c:584
+#: ../src/polkitgnomeauthenticationdialog.c:585
 msgid ""
 "An application is attempting to perform an action that requires privileges. "
 "Authentication is required to perform this action."
@@ -45,42 +45,42 @@ msgstr ""
 "Softwar chce uprŏwniyń roota. Logŏwaniy na kōnto kerego z tych używaczy je "
 "dlŏ tygo potrzebne."
 
-#: ../src/polkitgnomeauthenticationdialog.c:590
+#: ../src/polkitgnomeauthenticationdialog.c:591
 msgid ""
 "An application is attempting to perform an action that requires privileges. "
 "Authentication as the super user is required to perform this action."
 msgstr ""
 "Softwar chce uprŏwniyń roota. Logŏwaniy na kōnto roota je dlŏ tygo potrzebne."
 
-#: ../src/polkitgnomeauthenticationdialog.c:625
+#: ../src/polkitgnomeauthenticationdialog.c:626
 #: ../src/polkitgnomeauthenticator.c:300
 msgid "_Password:"
 msgstr "_Hasło:"
 
 #. Details
-#: ../src/polkitgnomeauthenticationdialog.c:643
-msgid "<small><b>_Details</b></small>"
-msgstr "<small><b>_Wiyncyj</b></small>"
-
-#: ../src/polkitgnomeauthenticationdialog.c:699
-msgid "<small><b>Action:</b></small>"
-msgstr "<small><b>Działaniy:</b></small>"
+#: ../src/polkitgnomeauthenticationdialog.c:644
+msgid "_Details"
+msgstr "_Wiyncyj"
 
 #: ../src/polkitgnomeauthenticationdialog.c:702
+msgid "Action:"
+msgstr "Działaniy:"
+
+#: ../src/polkitgnomeauthenticationdialog.c:707
 #, c-format
 msgid "Click to edit %s"
 msgstr "Wciśnij cŏby sprowjać %s"
 
-#: ../src/polkitgnomeauthenticationdialog.c:716
-msgid "<small><b>Vendor:</b></small>"
-msgstr "<small><b>Twōrca:</b></small>"
+#: ../src/polkitgnomeauthenticationdialog.c:721
+msgid "Vendor:"
+msgstr "Twōrca:"
 
-#: ../src/polkitgnomeauthenticationdialog.c:718
+#: ../src/polkitgnomeauthenticationdialog.c:725
 #, c-format
 msgid "Click to open %s"
 msgstr "Wciśnij cŏby ôdewrzić %s"
 
-#: ../src/polkitgnomeauthenticationdialog.c:881
+#: ../src/polkitgnomeauthenticationdialog.c:888
 msgid "Authenticate"
 msgstr "Logŏwaniy"
 
